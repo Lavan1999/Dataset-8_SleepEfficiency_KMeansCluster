@@ -1,13 +1,13 @@
 # Sleep efficiency Dataset Analysis
 
 ## Overview
-This repository contains the python code and documentation for analyzing the "salary" dataset using
+This repository contains the python code and documentation for analyzing the "sleep" dataset using
  Python and statistical methods. The dataset consists of various variables related to Sleep duration, sleep efficiency, REM sleep
 percentage, deep sleep percentage, light sleep percentage, awakenings, caffeine, algohol consumption.
 Our goal is to explore, analyze, and draw insights from this data.
 
 ## Dataset Description
-The "Salary" dataset contains information about Sleep efficiency and duration of individuals. Each entry represents a unique 
+The "Sleep" dataset contains information about Sleep efficiency and duration of individuals. Each entry represents a unique 
 dining experience and includes the following columns:
 
 - **ID**: Identification number for each individual in the dataset.
